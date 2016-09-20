@@ -1,0 +1,11 @@
+{
+  "name": "scrolln",
+  "version": "1.0.0",
+  "description": "Package with js code for fixed elements on scroll",
+  "main": "scrolln.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Humberto Zayas",
+  "license": "MIT"
+}
